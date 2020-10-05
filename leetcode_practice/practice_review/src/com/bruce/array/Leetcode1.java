@@ -6,4 +6,7 @@ package com.bruce.array;
  * version: 1.0.0
  */
 public class Leetcode1 {
+    public static void main(String[] args) {
+        
+    }
 }
