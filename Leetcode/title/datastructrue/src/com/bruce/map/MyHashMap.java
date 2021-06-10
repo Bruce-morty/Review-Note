@@ -183,7 +183,7 @@ public class MyHashMap<K, V> {
     public V remove(K key) {
         int hash = hash(key);
         int index = indexFor(hash, table.length);
-        // 保存前一个节点来删除
+         //保存前一个节点来删除
         Entry<K, V> prev = null;
         for(Entry<K, V> entry = table[index]; entry != null; entry = entry.next) {
             if (hash == entry.hash && key == entry.key || key.equals(entry.key)) {

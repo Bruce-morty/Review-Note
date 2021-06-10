@@ -28,7 +28,7 @@ api:
     建树：可以不存在这颗树对象，所以声明成静态方法
         static BinarySearchTree buildTree(List<E> preOder, List<E> inOrder)
  */
-public class BinarySearchTree<E extends Comparable> {
+public class BinarySearchTree<E extends Comparable<? super E>> {
     // 属性
     private int size;
     // 根节点
@@ -351,6 +351,30 @@ public class BinarySearchTree<E extends Comparable> {
         preOrder(node.right, list);
     }
 
+
+    /*
+    栈迭代实现中序遍历
+     */
+    public List<E> inOrderTraversal() {
+        // 创建栈和list存放 节点和结果
+        Deque<TreeNode> stack = new LinkedList<>();
+        ArrayList<E> res = new ArrayList<>();
+        // 判断条件, 若节点 != null || !stack.isEmpty()
+        while (root != null || !stack.isEmpty()) {
+            // 将node放进栈里，中序遍历要先处理左子树，先放入根节点 再放入所有左子树
+            // 并且如果 root等于null的话说明没有左子树了，出栈就是最下面的左子树节点,添加到list
+            while (root != null) {
+                stack.push(root);
+                root = root.left;
+            }
+            // 若右子树也为null，继续出栈，原来的根节点是即将出栈的节点的左子树
+            root = stack.pop();
+            res.add(root.value);
+            // 从当前节点继续找右子树, 因为它的左子树没有了，已经添加进去的相当于根节点
+            root = root.right;
+        }
+        return res;
+    }
 
     public List<E> inOrder() {
         List list = new ArrayList();

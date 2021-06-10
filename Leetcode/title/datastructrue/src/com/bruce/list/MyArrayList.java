@@ -42,7 +42,8 @@ public class MyArrayList<E> implements MyList<E> {
      */
     @Override
     public boolean add(E e) {
-        return false;
+        add(size, e);
+        return true;
     }
 
     @Override
@@ -135,7 +136,6 @@ public class MyArrayList<E> implements MyList<E> {
         return elements[index];
     }
 
-
     /**
      * 获取和指定对象 o 相等的第一个元素的索引
      *
@@ -166,7 +166,7 @@ public class MyArrayList<E> implements MyList<E> {
      */
     @Override
     public int lastIndexOf(Object o) {
-        // 从后开始bianli
+        // 从后开始遍历
         if (o == null) {
             for (int i = size - 1; i >= 0; i--) {
                 if (elements[i] == o) return i;
