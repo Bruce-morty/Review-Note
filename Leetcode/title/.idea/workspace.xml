@@ -1,25 +1,231 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6ca3fd1-a17e-4845-832c-5960ab6314a9" name="Default Changelist" comment="" />
+    <list default="true" id="933262b2-0a2c-4269-b301-61a9525196b7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/greedyAlgorithm/Leetcode665.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1564">
+              <caret line="68" column="29" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/slidingWindow/Leetcode239.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-520">
+              <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/Medium1143_LongestSubsequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/DeleteDuplicate2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/Homework3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="84" column="9" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/Easy160_IntersectionNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/Hard403_FrogJump.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1104">
+              <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/Medium368_LarDivisbleSubset.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="736">
+              <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/binarySearchTree/Medium96.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/greedyAlgorithm/Leetcode455_cookie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-15">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>i &lt;=</find>
+      <find>&lt;=</find>
+      <find>stack</find>
+      <find>括</find>
+      <find>unio</find>
+      <find>hash</find>
+      <find>Trie</find>
+      <find>湍流</find>
+      <find>dp</find>
+      <find>栈实现</find>
+      <find>three</find>
+      <find>stock</find>
+      <find>·</find>
+      <find>指针</find>
+      <find>List</find>
+      <find>前缀</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>union</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\mycode\Leetcode\title\accordingTitle\src\com\bruce\slidingWindow</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/title/Leetcode8.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/title/LeetCode6.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/title/Medium11_Container.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/Medium338_BitCount.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/title/Medium454_4sum.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/Hard354_DollEnvelopes.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/stack/Easy232_stackImplent.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/EasyMaxSubarray.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/stack/Medium150_RPNExpression.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/title/Medium75_matrix0.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/greedyAlgorithm/Leetcode665.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/stack/Easy1047_removeStrig.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/slidingWindow/Hard995_kConsecutive.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/title/Medium74_searchMartix.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/stack/Medium1006_clumsyFactorial.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/monotoneStack/Medium503.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/title/Leetcode42_TrappingWater.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/title/Medium80_RemoveDuplicate.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/binarysearch/Medium81_SearchRotated.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/binarysearch/Homework3.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/title/Leetcode973.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/binarysearch/Medium153_SearchRotatedMin.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/binarysearch/Hard154_SearchⅡ.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/Medium300_LIS.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/monotoneStack/Medium432_132Pattern.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/Medium1143_LongestSubsequence.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/binarySearchTree/Easy_783FindMinDistance.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/binarySearchTree/Medium_145PostOrderTravesal.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/binarySearchTree/Medium84_Pruning.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/binarySearchTree/Easy783_FindMinDistance.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/march/Medium331_Tree.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/trie/Leetcode208_implementTrie.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/easy/Leetcode_ReshapeMatrix.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/Homework3.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/binarySearchTree/Easy938_BinarySearchRange.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/monotoneStack/Hard84_LargestDiagrom.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/Medium368_LarDivisbleSubset.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/Medium377_CombinationⅣ.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/Leetcode148.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/robType/Medium740_Delete.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/robType/Medium213_HouseRobberⅡ.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/Easy160_IntersectionTwoNode.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/EasyInterview_Intersection.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/Easy160_Intersection.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/robType/Medium198_HouseRobber.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/Hard403_FrogJump.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/knapsack/Medium139_wordSplit.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/stack/Medium1190_ReverseSub.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/knapsack/Medium322_CoinChange.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/slidingWindow/Leetcode239.java" />
+        <option value="$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/knapsack/Medium518_CoinChangeⅡ.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\maven\apache-maven-3.6.1\repository" />
+        <option name="userSettingsFile" value="C:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="812" />
+    <option name="x" value="25" />
+    <option name="y" value="10" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -58,6 +264,123 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="bruce" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="title" type="b2602c69:ProjectViewProjectNode" />
+              <item name="title" type="462c0819:PsiDirectoryNode" />
+              <item name="accordingTitle" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bruce" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="title" type="b2602c69:ProjectViewProjectNode" />
+              <item name="title" type="462c0819:PsiDirectoryNode" />
+              <item name="accordingTitle" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bruce" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="knapsack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="title" type="b2602c69:ProjectViewProjectNode" />
+              <item name="title" type="462c0819:PsiDirectoryNode" />
+              <item name="accordingTitle" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bruce" type="462c0819:PsiDirectoryNode" />
+              <item name="nodeExercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="title" type="b2602c69:ProjectViewProjectNode" />
+              <item name="title" type="462c0819:PsiDirectoryNode" />
+              <item name="accordingTitle" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bruce" type="462c0819:PsiDirectoryNode" />
+              <item name="title" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="title" type="b2602c69:ProjectViewProjectNode" />
+              <item name="title" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructrue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="title" type="b2602c69:ProjectViewProjectNode" />
+              <item name="title" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructrue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="title" type="b2602c69:ProjectViewProjectNode" />
+              <item name="title" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructrue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="title" type="b2602c69:ProjectViewProjectNode" />
+              <item name="title" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructrue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bruce" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="title" type="b2602c69:ProjectViewProjectNode" />
+              <item name="title" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructrue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bruce" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="title" type="b2602c69:ProjectViewProjectNode" />
+              <item name="title" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructrue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bruce" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="title" type="b2602c69:ProjectViewProjectNode" />
+              <item name="title" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructrue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bruce" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="title" type="b2602c69:ProjectViewProjectNode" />
+              <item name="title" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructrue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bruce" type="462c0819:PsiDirectoryNode" />
+              <item name="set_homework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="title" type="b2602c69:ProjectViewProjectNode" />
+              <item name="title" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructrue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bruce" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="title" type="b2602c69:ProjectViewProjectNode" />
+              <item name="title" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructrue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bruce" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -69,13 +392,28 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/repository/mall/repository18/demo1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bruce.binarysearch" />
+      <recent name="com.bruce.nodeExercise" />
+      <recent name="com.bruce.list" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -89,63 +427,590 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.Leetcode973">
+    <configuration name="KthDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bruce.title.KthDemo1" />
+      <module name="accordingTitle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bruce.title.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode148" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bruce.nodeExercise.Leetcode148" />
+      <module name="accordingTitle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bruce.nodeExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode327" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bruce.title.Leetcode327" />
+      <module name="accordingTitle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bruce.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode973" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bruce.title.Leetcode973" />
+      <module name="accordingTitle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bruce.title.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode978" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bruce.slidingWindow.Leetcode978" />
+      <module name="accordingTitle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bruce.slidingWindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Leetcode973" />
+        <item itemvalue="Application.Leetcode327" />
+        <item itemvalue="Application.Leetcode148" />
+        <item itemvalue="Application.KthDemo1" />
+        <item itemvalue="Application.Leetcode978" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e6ca3fd1-a17e-4845-832c-5960ab6314a9" name="Default Changelist" comment="" />
-      <created>1605698451222</created>
+      <changelist id="933262b2-0a2c-4269-b301-61a9525196b7" name="Default Changelist" comment="" />
+      <created>1602750677143</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605698451222</updated>
-      <workItem from="1605698452662" duration="10000" />
+      <updated>1602750677143</updated>
+      <workItem from="1602750679455" duration="401392000" />
+      <workItem from="1608765200431" duration="46778000" />
+      <workItem from="1610455144150" duration="4156000" />
+      <workItem from="1610823888905" duration="42396000" />
+      <workItem from="1611679592106" duration="262574000" />
+      <workItem from="1613642418715" duration="48313000" />
+      <workItem from="1614129596310" duration="10424000" />
+      <workItem from="1614386278448" duration="136970000" />
+      <workItem from="1616765995285" duration="242956000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10000" />
+    <option name="totallyTimeSpent" value="1195959000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="811" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22319035" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.09558824" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48235294" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Mybatis datasource" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32941177" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Mybatis datasource" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21514745" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23970588" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48235294" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32941177" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Mybatis datasource" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/title/Medium74_searchMartix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/Hard354_DollEnvelopes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1817">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/binarySearchTree/Medium145_PostOrderTravesal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/binarySearchTree/Easy783_FindMinDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1426">
+          <caret line="73" column="19" lean-forward="true" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/binarySearchTree/Medium84_Pruning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/march/Medium331_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/trie/Leetcode208_implementTrie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
+          <folding>
+            <element signature="e#876#877#0" expanded="true" />
+            <element signature="e#927#928#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/easy/Leetcode724.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/easy/Leetcode888.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-291">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/title/Leetcode973.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/Leetcode147_InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/Leetcode24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/Leetcode138.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-222">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/Leetcode1171.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/NextLargeNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-222">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/easy/Leetcode566_ReshapeMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="51" column="21" lean-forward="true" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/RotateRight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/binarySearchTree/Easy938_BinarySearchRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/PartitionNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/node/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/stack/Easy232_stackImplent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/monotoneStack/Medium432_132Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="49" column="36" lean-forward="true" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/Leetcode1367.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/Leetcode148.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/title/Leetcode7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/EasyMaxSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/greedyAlgorithm/Leetcode122_stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/Easy160_IntersectionTwoNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/robType/Medium213_HouseRobberⅡ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/robType/Medium740_Delete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/robType/Medium198_HouseRobber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/binarySearchTree/Medium96.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/greedyAlgorithm/Leetcode455_cookie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/Medium368_LarDivisbleSubset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/monotoneStack/Hard84_LargestDiagrom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/greedyAlgorithm/Leetcode665.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="68" column="29" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/stack/Medium1006_clumsyFactorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/stack/Medium1190_ReverseSub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/knapsack/Medium322_CoinChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="39" column="58" lean-forward="true" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/knapsack/Medium139_wordSplit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-552">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/knapsack/Medium518_CoinChangeⅡ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/Hard403_FrogJump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/Medium300_LIS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="117" column="42" lean-forward="true" selection-start-line="117" selection-start-column="42" selection-end-line="117" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/Medium338_BitCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/Medium377_CombinationⅣ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/slidingWindow/Leetcode239.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-520">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/dp/Medium1143_LongestSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/DeleteDuplicate1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/Easy160_IntersectionNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/DeleteDuplicate2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordingTitle/src/com/bruce/nodeExercise/Homework3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="84" column="9" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
   <component name="masterDetails">
     <states>
-      <state key="ArquillianSettingsConfigurable.UI">
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
@@ -178,18 +1043,20 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ProjectLibrariesConfigurable.UI">
+      <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>datastructrue</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ScopeChooserConfigurable.UI">
+      <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
