@@ -47,7 +47,7 @@ public class LRU {
             // 删掉该节点，在头节点添加
             // prev == null 可知这个元素就在头节点,不用操作
             if (prev != null) {
-                // 删掉curr,而prev.next 正是curr,因为curr.next后面要用
+                // 删掉curr,而prev.next 正是curr,因为curr后面要用
                 prev.next = prev.next.next;
                 // 添加头节点
                 //curr已经被删掉了，现在这个curr.next还是指向后面，应改为指向原本的head，这样它才能变成head

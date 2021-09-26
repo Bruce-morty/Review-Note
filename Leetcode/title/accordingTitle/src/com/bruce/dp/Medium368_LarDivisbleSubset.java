@@ -39,11 +39,7 @@ public class Medium368_LarDivisbleSubset {
         if (n == 0) return new ArrayList<>();
         // 定义dp
         int[] dp = new int[n];
-<<<<<<< HEAD
         Arrays.fill(dp, 1);
-=======
-        Arrays.fill(nums, 1);
->>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
         // 每个dp能够被自己整除所以初始化值为1 dp是当前数字结尾的最长子集的长度
         int maxSize = 1;
         int maxVal = dp[0];

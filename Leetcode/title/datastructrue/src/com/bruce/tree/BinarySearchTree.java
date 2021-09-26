@@ -26,7 +26,7 @@ api:
         List<E> postOrder()
         List<E> levelOrder()
     建树：可以不存在这颗树对象，所以声明成静态方法
-        static BinarySearchTree buildTree(List<E> preOder, List<E> inOrder)
+        static BinarySearchTree buildTree_recover(List<E> preOder, List<E> inOrder)
  */
 public class BinarySearchTree<E extends Comparable<? super E>> {
     // 属性
@@ -137,7 +137,7 @@ public class BinarySearchTree<E extends Comparable<? super E>> {
         // 判断node,如果为null，没找到相同的元素
         if (node == null) return false;
         // 删除度为2
-        while (node.left != null & node.right != null) {
+       if (node.left != null & node.right != null) {
             // 找到右子树中的最小左节点
             TreeNode minOfRight = node.right;
             while (minOfRight.left != null) {
@@ -288,7 +288,7 @@ public class BinarySearchTree<E extends Comparable<? super E>> {
             node = node.left;
         }
         return node.value;*/
-        // recursion
+        // recursion_dfs
         if (root == null) return null;
         return min(root).value;
     }
@@ -382,6 +382,28 @@ public class BinarySearchTree<E extends Comparable<? super E>> {
         return list;
     }
 
+/*
+    public List<List<E>> level() {
+        List<List<E>> res = new ArrayList<>();
+        if (root == null) return res;
+        Deque<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+        // 输出层级信息的时候需要判断当前queue的size 这样就可以for去遍历当前level的node 添加到list中
+        while (!queue.isEmpty()) {
+            List<E> list = new ArrayList<>();
+            int size = queue.size();
+            for (int i = 0; i < size; i++) {
+                TreeNode node = queue.poll();
+                list.add(node.value);
+                if (node.left != null) queue.offer(node.left);
+                if (node.right != null) queue.offer(node.right);
+            }
+            res.add(0, list);
+        }
+        return res;
+    }
+
+    */
     private void inOrder(TreeNode node, List list) {
         if (node == null) return;
         // 遍历左子树

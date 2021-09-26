@@ -39,7 +39,7 @@ public class Medium75_matrix0 {
                 if (matrix[i][j] == 0) newArr[i][j] = 1;
             }
         }
-        // 标记结束 将对应行和列改为0
+        // 标记结束 将对应行和列改为0 m 行 n 列. 固定m 遍历 n matrix[m][i] 是在m行修改每一列
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (newArr[i][j] == 1) {

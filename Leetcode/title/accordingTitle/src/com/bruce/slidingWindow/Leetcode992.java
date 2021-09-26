@@ -64,11 +64,7 @@ public class Leetcode992 {
             // 理解这一步重要！！退出内层循环-> count <= a 即求出最多有k个不同整数的子区间的个数
             res += right - left;
         }
-<<<<<<< HEAD
         return res;
-=======
-        return 0;
->>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
     }
 
 }

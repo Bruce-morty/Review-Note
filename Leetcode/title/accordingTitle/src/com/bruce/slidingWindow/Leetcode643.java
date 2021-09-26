@@ -28,11 +28,7 @@ public class Leetcode643 {
             sum = sum - nums[i - k] + nums[i];
             max = Math.max(sum, max);
         }
-<<<<<<< HEAD
         return 1.0 * max / k;
-=======
-        return max;
->>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
 
     }
 

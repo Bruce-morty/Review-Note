@@ -64,7 +64,6 @@ public class LFUCache {
      * @param key
      * @return 存在返回value，否则返回-1
      */
-<<<<<<< HEAD
     /*
     0. 判断cap和key_table是否存在该key
     1. 从key_table中拿出来node 得到val freq
@@ -72,8 +71,6 @@ public class LFUCache {
     3. 创建一个新的list list的第一个元素是node(freq+1)其他不变 放入freq_table中
     4. node放入key_table中 key不变 node是从freq_table取得freq 在拿到list 的第一个元素node
      */
-=======
->>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
     public int get(int key) {
         if (capacity == 0) return -1;
         if (!key_table.containsKey(key)) return -1;
@@ -94,16 +91,11 @@ public class LFUCache {
         LinkedList<Node> list = freq_table.getOrDefault(freq + 1, new LinkedList<>());
         list.offerFirst(new Node(key, val, freq + 1));
         freq_table.put(freq + 1, list);
-<<<<<<< HEAD
         // 更新key_table的节点，因为频率变化了，由于新加进去，可以确定是第一个元素 而且不能直接加node，因为freq不同了
-=======
-        // 更新key_table的节点，因为频率变化了，由于新加进去，可以确定是第一个元素
->>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
         key_table.put(key, freq_table.get(freq + 1).peekFirst());
         return val;
     }
 
-<<<<<<< HEAD
     /*
     多了判断是否存在该key，不存在的话
     0.判断cap 满了，需要删除最小freq 从freq_table中get min_freq 得到最后一个node(peekLast())
@@ -113,8 +105,6 @@ public class LFUCache {
     3.2 freq table.getOrderDefault(1, new List) 创建freq = 1的list list放入node freq table放list
     key table 也放入 node = freq_table.get(1).peekFirst 更新min = 1
      */
-=======
->>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
     public void put(int key, int value) {
         if (capacity == 0) return;
         if (!key_table.containsKey(key)) {

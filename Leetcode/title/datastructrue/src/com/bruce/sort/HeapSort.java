@@ -15,7 +15,7 @@ public class HeapSort {
      */
     public static void sort(int[] arr) {
         if (arr == null || arr.length < 2) return;
-
+        // 将无序的arr 构建成一个大顶堆
         buildHeap(arr);
         int len = arr.length;
         while (len > 1) {
