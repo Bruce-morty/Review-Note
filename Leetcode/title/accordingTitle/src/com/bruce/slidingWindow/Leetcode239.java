@@ -63,7 +63,11 @@ public class Leetcode239 {
                 queue.pollLast();
             }
             queue.addLast(i);
+<<<<<<< HEAD
             // 如当前queue的index不在窗口[i - k  + 1, i]里面 把这个index poll出来, i - k + 1是当前窗口的第一个index位置
+=======
+            // 如果当前queue的索引 不在窗口[i - k, i]里面 就要把这个index poll出来, i - k是当前窗口的第一个index位置
+>>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
             if (queue.peekFirst() <= i - k) {
                 queue.poll();
             }

@@ -24,8 +24,13 @@ The second 1's next greater number needs to search circularly, which is also 2.
 public class Medium503 {
     /*
     单调递增栈是指，元素pop时为递增的。同理，单调递减栈是元素pop出时大小顺序是递减的
+<<<<<<< HEAD
     递增(减)栈 可以找到当前元素左右两侧比自己第一个大(小)的元素.对栈顶元素，可找右侧比自己第一个小（大）的元素
      已本题为例，遍历到的数比栈顶元素大，出栈。对于栈顶元素来说：找到右边第一个比自己大的元素。
+=======
+    递增(减)栈 可以找到元素左右两侧比自己第一个大(小)的元素. 已本题为例，遍历到的数比栈顶元素大，出栈
+    对于栈顶元素来说：找到右边第一个比自己大的元素。
+>>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
     对于新元素，等待破坏栈单调性的元素出栈以后，可以找到左边第一个比自己大的元素
      */
     /*
@@ -38,7 +43,11 @@ public class Medium503 {
         int n = nums.length;
         int[] ret = new int[n];
         Arrays.fill(ret, -1);
+<<<<<<< HEAD
         Deque<Integer> stack = new LinkedList<>();
+=======
+        Deque<Integer> stack = new LinkedList<Integer>();
+>>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
         // 重点是拉直
         for (int i = 0; i < n * 2 - 1; i++) {
             // 找到右边第一个比它大的元素？若比栈顶元素大就出栈 找到了 比栈顶元素小就入栈

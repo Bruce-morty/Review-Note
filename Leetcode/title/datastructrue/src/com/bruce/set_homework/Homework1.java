@@ -27,6 +27,20 @@ public class Homework1 {
         return j;
     }
 
+    public static int remove2(int[] arr) {
+        // 另一种双指针定义
+        int i = 0;
+        for (int j = 1; j < arr.length; j++) {
+            // j 用来遍历链表，i位置放不相等的元素
+            if (arr[i] != arr[j]) {
+                // caution 不相等的话i要自增 然后覆盖
+                i++;
+                arr[i] = arr[j];
+            }
+        }
+        return i + 1;
+    }
+
     public static void main(String[] args) {
         int[] nums = {1, 1, 2, 2, 2, 3};
         System.out.println(removeDuplicated(nums));

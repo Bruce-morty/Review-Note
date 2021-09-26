@@ -44,7 +44,10 @@ public class Leetcode8 {
         // 4. 最后判断这个数字不能溢出，判断小于 Integer.MAX_VALUE / 10 大于Integer.MIN_VALUE / 10
         int start = 0;
         int len = s.length();
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
         char[] chars = s.toCharArray();
         // 越过空格
         while (start < len && chars[start] == ' ' ) {

@@ -28,7 +28,11 @@ import java.util.Set;
 输出: false
  */
 public class Medium139_wordSplit {
+<<<<<<< HEAD
     // 思路：典型的背包问题 并且是完全背包问题 wordDict相 当于coins 可以任意多地取
+=======
+    // 思路：典型的背包问题 并且是完全背包问题 wordDict相当于coins 可以任意多地取
+>>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
     /*
     状态：0.背包剩余的容量是多少
     选择：单词列表
@@ -53,7 +57,11 @@ public class Medium139_wordSplit {
                 if (i - j > max) break;
                 if (dp[j] && set.contains(s.substring(j, i))) {
                     dp[i] = true;
+<<<<<<< HEAD
                     // 分割一次已经够了 当j再变小即使也匹配word中的单词也不care
+=======
+                    // 分割一次已经够了 当j再变小即使也匹配word中的单词也不行了，string只能分割一次
+>>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
                     break;
                 }
             }

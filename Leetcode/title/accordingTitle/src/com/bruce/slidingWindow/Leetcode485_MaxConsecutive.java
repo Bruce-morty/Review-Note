@@ -5,6 +5,7 @@ package com.bruce.slidingWindow;
  * Date:2021/2/15
  * Version:1.0.0
  */
+<<<<<<< HEAD
 /*
 给定一个二进制数组， 计算其中最大连续 1 的个数。
 
@@ -16,6 +17,9 @@ package com.bruce.slidingWindow;
  */
 public class Leetcode485_MaxConsecutive {
 
+=======
+public class Leetcode485_MaxConsecutive {
+>>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
     public int findMaxConsecutiveOnes(int[] nums) {
         // 遍历整个数组
         int len = nums.length;

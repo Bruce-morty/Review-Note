@@ -1,8 +1,11 @@
 package com.bruce.dp.knapsack;
 
+<<<<<<< HEAD
 import java.util.ArrayList;
 import java.util.List;
 
+=======
+>>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
 /**
  * Author: Qi Gao
  * Date:2021/5/26
@@ -24,18 +27,27 @@ import java.util.List;
 解释: 只用面额2的硬币不能凑成总金额3
  */
 public class Medium518_CoinChangeⅡ {
+<<<<<<< HEAD
 
     /*
     转化为是否可以用 coins 中的数组合成 amount，完全背包问题，并且为“不考虑排列顺序的完全背包问题”，
+=======
+    /*
+    转化为是否可以用 coins 中的数组合和成 amount，完全背包问题，并且为“不考虑排列顺序的完全背包问题”，
+>>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
     外层循环为选择池 coins，内层循环为 amount
     dp[i] 表示和为 i 的 coin 组合有 dp[i] 种。
 
     外层遍历 coins 每个 coin；
     内层遍历 amount。
     对于元素之和等于 i - coin 的每一种组合，在最后添加 coin 之后即可得到一个元素之和等于 i 的组合
+<<<<<<< HEAD
     因此在计算 dp[i] 时，应该计算所有的 dp[i − coin] 之和。内循环会遍历coin 每一个coin相加得到i的值都会被算
     且除了dp[0] = 1 其他初始值都是0 不用担心
     e.g. dp[5] = dp[5] + dp[5-1]; dp[5] = dp[5] + dp[5-2]; dp[5] = dp[5]+dp[5-5];
+=======
+    因此在计算 dp[i] 时，应该计算所有的 dp[i − coin] 之和。
+>>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
      */
     public int change(int amount, int[] coins) {
         // dp含义 i为金额时，选择coins中硬币可以凑成i金额的方式为dp[i]种

@@ -6,12 +6,20 @@ package com.bruce.binarySearch;
  * Version:1.0.0
  */
 public class BinarySearch {
+    public static int search3(int[] arr, int target, int low, int high) {
+       // 递归
+        if (low > high) return -1;
+        int mid = low + ((high - low) >> 1);
+        if (arr[mid] > target) return search3(arr, target, low, mid - 1);
+        if (arr[mid] < target) return search3(arr, target,  mid + 1, high);
+        return mid;
+    }
     /**
-     * 二分找找
+     * 二分查找
      *
      * @param arr    给定的数组
      * @param target 要查找的元素
-     * @return 该元素所在索引, 如果数组中不存在该运算, 返回-1
+     * @return 该元素所在索引, 如果数组中不存在该索引, 返回-1
      */
     public static int search(int[] arr, int target) {
         int low = 0;

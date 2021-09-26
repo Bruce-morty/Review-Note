@@ -91,7 +91,11 @@ public class Leetcode138 {
             }
             node = node.next;
         }
+<<<<<<< HEAD
         // 直接返回頭節點
+=======
+        // 断开链表
+>>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
         return map.get(head);
     }
 }

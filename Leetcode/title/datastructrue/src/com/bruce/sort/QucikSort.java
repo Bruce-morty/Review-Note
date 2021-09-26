@@ -33,7 +33,7 @@ public class QucikSort {
             while (i < j && arr[j] >= pivot) {
                 j--;
             }
-            // j > j || arr[j] < pivot 放在arr[i] 位置上
+            // i > j || arr[j] < pivot 放在arr[i] 位置上
             arr[i] = arr[j];
             while (i < j && arr[i] <= pivot) {
                 i++;

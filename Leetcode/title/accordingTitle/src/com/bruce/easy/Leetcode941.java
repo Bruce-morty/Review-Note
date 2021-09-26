@@ -6,7 +6,11 @@ package com.bruce.easy;
  * Version:1.0.0
  */
 /*
+<<<<<<< HEAD
 有效的union数组：
+=======
+有效的山脉数组：
+>>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
     让我们回顾一下，如果 A 满足下述条件，那么它是一个山脉数组：
 A.length >= 3
 在 0 < i < A.length - 1 条件下，存在 i 使得：

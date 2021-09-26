@@ -45,7 +45,10 @@ public class Medium1190_ReverseSub {
             } else if (c == ')') {
                 // 若是右括号 则反战当前的string
                 sb.reverse();
+<<<<<<< HEAD
                 //
+=======
+>>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
                 sb.insert(0, stack.pop());
             } else {
                 sb.append(c);

@@ -20,7 +20,10 @@ import com.bruce.node.Node;
  */
 public class Reverse2 {
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
     /*
     1. 用递归来写，首先写一个能从头开始反转链表到 n这个索引位置，n后面的可能不为null，即n不是最后一个节点
         所以要定义一个变量保存后面一个节点
@@ -45,7 +48,10 @@ public class Reverse2 {
             successor = head.next;
             return head;
         }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
         Node last = reverse(head.next, n - 1);
         // 保存后驱节点
         //  Node node = head.next.next;

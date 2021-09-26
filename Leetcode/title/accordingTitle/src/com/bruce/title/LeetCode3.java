@@ -1,4 +1,4 @@
-package com.bruce;
+package com.bruce.title;
 
 import java.util.HashMap;
 import java.util.Map;

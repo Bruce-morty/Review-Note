@@ -20,11 +20,15 @@ public class Easy938_BinarySearchRange {
     需要遍历整个树。也就是DFS和BFS
     先用DFS，edge case 不只是root == null 还要判断当前节点的范围
      */
+<<<<<<< HEAD
     // 这有点二分查找的意思
     public static int rangeSumBST(TreeNode root, int low, int high) {
         // if (root == null) return 0;
 //        int sum = rangeInorder(root, low, high);
 //        return sum;
+=======
+    public static int rangeSumBST(TreeNode root, int low, int high) {
+>>>>>>> 4d072317d15f53dfa5e27d0be179f26f6d491072
         if (root == null) return 0;
         // 比较当前节点值和区间左 若小于low 则去右子树找
         if (root.value < low) {
